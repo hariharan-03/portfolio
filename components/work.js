@@ -22,14 +22,14 @@ export default function work() {
             type:"App",
             lang:"React Native",
             title:"Chups",
-            url:""
+            url:"https://apps.apple.com/in/app/chups/id1224124736"
         },
         {
             image:"/kiosk-app.webp",
             type:"App",
             lang:"React Native",
             title:"Kiosk",
-            url:""
+            url:"https://apps.apple.com/in/app/chups-kiosk/id6443938349"
         },
         {
             image:"/capton.jpg",
