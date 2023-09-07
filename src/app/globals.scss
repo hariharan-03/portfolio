@@ -14,10 +14,11 @@ body{
     a{
         text-decoration: none;
     }
+    -ms-overflow-style: none;
 }
 body::-webkit-scrollbar{
-    display: none;
-  }
+    width: 0 !important
+}
 .dark-bg {
     background: rgba(0, 0, 0, 0.2) !important;
     box-shadow: 0 5px 20px 0 #36a1d436;
@@ -69,6 +70,10 @@ body::-webkit-scrollbar{
                         }
                     // }
                 }
+    }
+    -ms-overflow-style: none;
+    &.maincard::-webkit-scrollbar{
+        width: 0 !important
     }
 }
 .navbar{
