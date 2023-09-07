@@ -8,7 +8,7 @@ export default function contact() {
           <Row className='mb-4'>
               <Col>
               <a href='tel:+91 9865007511'>
-              <Card className='withborder p-3'>
+              <Card className='withborder p-3 mb-3'>
                   <h6>Phone</h6>
                   <p>9865007511</p>
                   </Card>
@@ -16,7 +16,7 @@ export default function contact() {
               </Col>
               <Col>
               <a href="mailto:rhariharan461@gmail.com">
-              <Card className='withborder p-3'>
+              <Card className='withborder p-3 mb-3'>
                   <h6>Email</h6>
                   <p>rhariharan461@gmail.com</p>
                   </Card>
