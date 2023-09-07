@@ -44,7 +44,7 @@ body::-webkit-scrollbar{
     &.maincard{
         min-height: 556px;
         max-height: 556px;
-        overflow: hidden;
+        overflow: scroll;
         h2{
             text-decoration: underline #36a1d4 5px;
             // span{
