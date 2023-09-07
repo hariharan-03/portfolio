@@ -48,7 +48,7 @@ export default function Index() {
             <Tabs
               defaultActiveKey="home"
               id="uncontrolled-tab-example"
-              className="justify-content-end me-3"
+              className="justify-content-center justify-content-md-end me-0 me-md-3"
             >
               <Tab eventKey="home" title="Home">
               <Home/>
