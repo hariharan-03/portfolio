@@ -38,7 +38,7 @@ export default function Index() {
             </Col>
           </Row>
           <div className="text-center me-2">
-          <a href="https://drive.google.com/file/d/1XRPE-DwRFnRPQ-yKUKKBShi6pQvaIPWB/view?usp=sharing" target="_blank"><Button className="cta">Download Resume</Button></a>
+          <a href="https://drive.google.com/file/d/1OGfRIg2YK_-4NXM7AMLKMOeNc-pB5ttv/view?usp=sharing" target="_blank"><Button className="cta">Download Resume</Button></a>
           </div>
         </div>
             </Card.Body>
