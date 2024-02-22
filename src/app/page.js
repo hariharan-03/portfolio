@@ -12,7 +12,7 @@ export default function Index() {
         <Col md={4} className="my-auto mt-5 pt-5">
           <Card className="dark-bg text-white withborder">
             <Card.Body className="position-relative">
-            <img src="/profile1.jpg" className="position-absolute top-0 start-50 translate-middle withborder profimg" style={{height:"208px",width:"208px",borderRadius:"20%"}}/>
+            <img src="/profile4.jpg" className="position-absolute top-0 start-50 translate-middle withborder profimg" style={{height:"208px",width:"208px",borderRadius:"20%"}}/>
           <h3 className="pt-5 mt-5 text-center">HARIHARAN</h3>
           <p className="text-center">Software Engineer</p>
         <div className="p-4 personaldetails">
