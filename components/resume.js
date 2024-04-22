@@ -14,6 +14,11 @@ export default function resume() {
                 </Card>
                 <Card className='p-3 withborder'>
                     <p>2019-2020</p>
+                    <h5>Web Developer</h5>
+                    <p className='m-0'>Freelance</p>
+                </Card>
+                <Card className='p-3 withborder'>
+                    <p>2019-2020</p>
                     <h5>Software Engineer</h5>
                     <p className='m-0'>Skoruz technologies</p>
                 </Card>
