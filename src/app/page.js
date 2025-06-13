@@ -7,7 +7,7 @@ import Contact from "../../components/contact"
 export default function Index() {
   return (
     <>
-   <Container className="pt-4 pb-3">
+   <Container className="pt-5 pb-3">
       <Row>
         <Col md={4} className="my-auto mt-5 pt-5">
           <Card className="dark-bg text-white withborder">
