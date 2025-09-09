@@ -8,20 +8,20 @@ export default function resume() {
             <Col>
                 <h3>Experience</h3>
                 <Card className='p-3 mb-3 withborder'>
-                    <p>Jun 21-present</p>
+                    <p>Jun 2021 - Present</p>
                     <h5>Software Engineer</h5>
                     <p className='m-0'>Skoruz technologies</p>
                 </Card>
-                <Card className='p-3 mb-3 withborder'>
-                    <p>Dec 20-May 21</p>
-                    <h5>Web Developer</h5>
-                    <p className='m-0'>Freelance</p>
-                </Card>
-                <Card className='p-3 withborder'>
-                    <p>Jun 19-Nov 20</p>
-                    <h5>Software Engineer</h5>
-                    <p className='m-0'>Skoruz technologies</p>
-                </Card>
+                // <Card className='p-3 mb-3 withborder'>
+                //     <p>Dec 20-May 21</p>
+                //     <h5>Web Developer</h5>
+                //     <p className='m-0'>Freelance</p>
+                // </Card>
+                // <Card className='p-3 withborder'>
+                //     <p>Jun 19-Nov 20</p>
+                //     <h5>Software Engineer</h5>
+                //     <p className='m-0'>Skoruz technologies</p>
+                // </Card>
             </Col>
             <Col>
                 <h3>Education</h3>
