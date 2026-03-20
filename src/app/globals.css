@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+/* Light mode (default) */
+body {
+  font-family: 'IBM Plex Mono', monospace;
+  background-color: #f1f5f9;
+  background-image: radial-gradient(circle at 1px 1px, rgba(0, 0, 0, 0.06) 1px, transparent 0);
+  background-size: 32px 32px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Dark mode */
+html.dark body {
+  background-color: #050510;
+  background-image: radial-gradient(circle at 1px 1px, rgba(255, 255, 255, 0.04) 1px, transparent 0);
+  background-size: 32px 32px;
+}
+
+/* Hero ring pulse */
+@keyframes ring-pulse {
+  0%, 100% { opacity: 0.15; }
+  50% { opacity: 0.35; }
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 3px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: rgba(54, 161, 212, 0.25); border-radius: 2px; }
+::-webkit-scrollbar-thumb:hover { background: rgba(54, 161, 212, 0.45); }
