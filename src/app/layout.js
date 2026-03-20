@@ -14,7 +14,7 @@ export const metadata = {
     description: 'Front-End Developer with 5+ years of experience building scalable web apps in eCommerce and AI domains with React.js & Next.js.',
     url: 'https://dumbcoder.vercel.app',
     siteName: 'dumbcoder.vercel.app',
-    images: [{ url: '/opengraph-image.png', width: 800, height: 600 }],
+    images: [{ url: '/opengraph-image', width: 1200, height: 630 }],
     locale: 'en_US',
     type: 'website',
   },
