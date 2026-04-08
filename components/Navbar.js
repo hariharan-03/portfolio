@@ -75,7 +75,7 @@ export default function Navbar() {
 
           {/* Resume CTA */}
           <a
-            href="https://drive.google.com/file/d/1agxK72_N9LHAX8yThCj-qy2lL2Ow7ccc/view?usp=sharing"
+            href="https://drive.google.com/file/d/1-WF3bCxfWRPKoj086q5M8IbC7R8ubN7C/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="hidden md:inline-flex items-center gap-1.5 px-4 py-1.5 text-xs border border-accent/40 text-accent rounded-xl hover:bg-accent hover:text-black transition-all duration-200 font-medium"
@@ -116,7 +116,7 @@ export default function Navbar() {
             </a>
           ))}
           <a
-            href="https://drive.google.com/file/d/1agxK72_N9LHAX8yThCj-qy2lL2Ow7ccc/view?usp=sharing"
+            href="https://drive.google.com/file/d/1-WF3bCxfWRPKoj086q5M8IbC7R8ubN7C/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="text-accent text-sm font-mono"

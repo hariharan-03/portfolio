@@ -103,7 +103,7 @@ export default function Resume() {
             ))}
 
             <a
-              href="https://drive.google.com/file/d/1agxK72_N9LHAX8yThCj-qy2lL2Ow7ccc/view?usp=sharing"
+              href="https://drive.google.com/file/d/1-WF3bCxfWRPKoj086q5M8IbC7R8ubN7C/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-3 border border-accent/20 rounded-2xl p-5 bg-accent/[0.04] hover:border-accent/50 hover:bg-accent/[0.07] transition-all duration-300 group"
